@@ -1,0 +1,10 @@
+columns:
+  name: Customer Name
+  trade_name: Trade Name
+  gstin: GSTIN
+  city: City
+  state: State
+  pincode: Pincode
+  outcome: Outcome
+  deal_value_inr: Deal Value (INR)
+  closed_at: Closed Date

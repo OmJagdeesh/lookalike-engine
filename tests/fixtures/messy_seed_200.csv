@@ -1,0 +1,201 @@
+Customer Name,Trade Name,GSTIN,City,State,Pincode,Outcome,Deal Value (INR),Closed Date
+Deccan Industrial 001 Pvt Ltd,Deccan Ind 001,27AABCP1000A1ZG,Pune,Maharashtra,411019,won,,
+Deccan Industrial 002 Private Limited,,27AAACP1001B1ZE,Pune,Maharashtra,411026,Won,"₹126,000",2025-02-02
+Deccan Industrial 003 LLP,,27AADCP1002C1Z8,Pune,Maharashtra,411018,lost,86000,2025-03-03
+Deccan Industrial 004 Ltd,Deccan Ind 004,27AAECP1003D1Z4,Pune,Maharashtra,411044,LOST,86500,2025-04-04
+Deccan Industrial 005 Pvt Ltd,,27AAFCP1004E1Z0,Nashik,Maharashtra,422007,churned,87000,2025-05-05
+Deccan Industrial 006 Private Limited,,27AAGCP1005F1ZW,Aurangabad,Maharashtra,431136,won,,2025-06-06
+Deccan Industrial 007 LLP,Deccan Ind 007,27AABCP1006G1ZY,Pune,Maharashtra,411019,Won,88000,
+Deccan Industrial 008 Ltd,,27AAACP1007H1ZW,Pune,Maharashtra,411026,lost,88500,2025-08-08
+Deccan Industrial 009 Pvt Ltd,,27AADCP1008I1ZP,Pune,Maharashtra,411018,LOST,89000,2025-09-09
+Deccan Industrial 010 Private Limited,Deccan Ind 010,27AAECP1009J1ZL,Pune,Maharashtra,411044,churned,"₹134,000",2025-10-10
+Deccan Industrial 011 LLP,,27AAFCP1010K1ZP,Nashik,Maharashtra,422007,won,,2025-11-11
+Deccan Industrial 012 Ltd,,27AAGCP1011L1ZL,Aurangabad,Maharashtra,431136,Won,90500,2025-12-12
+Deccan Industrial 013 Pvt Ltd,Deccan Ind 013,27AABCP1012M1ZN,Pune,Maharashtra,411019,lost,91000,
+Deccan Industrial 014 Private Limited,,27AAACP1013N1ZL,Pune,Maharashtra,411026,LOST,"₹138,000",2025-02-14
+Deccan Industrial 015 LLP,,27AADCP1014O1ZF,Pune,Maharashtra,411018,churned,92000,2025-03-15
+Deccan Industrial 016 Ltd,Deccan Ind 016,27AAECP1015P1ZB,Pune,Maharashtra,411044,won,,2025-04-16
+Deccan Industrial 017 Pvt Ltd,,27AAFCP1016Q1Z7,Nashik,Maharashtra,422007,Won,93000,2025-05-17
+Deccan Industrial 018 Private Limited,,27AAGCP1017R1Z3,Aurangabad,Maharashtra,431136,lost,"₹142,000",2025-06-18
+Deccan Industrial 019 LLP,Deccan Ind 019,27AABCP1018S1Z5,Pune,Maharashtra,411019,LOST,94000,
+Deccan Industrial 020 Ltd,,27AAACP1019T1Z3,Pune,Maharashtra,411026,churned,94500,2025-08-20
+Deccan Industrial 021 Pvt Ltd,,27AADCP1020U1Z5,Pune,Maharashtra,411018,won,,2025-09-21
+Deccan Industrial 022 Private Limited,Deccan Ind 022,27AAECP1021V1Z1,Pune,Maharashtra,411044,Won,"₹146,000",2025-10-22
+Deccan Industrial 023 LLP,,27AAFCP1022W1ZX,Nashik,Maharashtra,422007,lost,96000,2025-11-23
+Deccan Industrial 024 Ltd,,27AAGCP1023X1ZT,Aurangabad,Maharashtra,431136,LOST,96500,2025-12-24
+Deccan Industrial 025 Pvt Ltd,Deccan Ind 025,27AABCP1024Y1ZV,Pune,Maharashtra,411019,churned,97000,
+Deccan Industrial 026 Private Limited,,27AAACP1025Z1ZT,Pune,Maharashtra,411026,won,,2025-02-26
+Deccan Industrial 027 LLP,,27AADCP1026A1Z4,Pune,Maharashtra,411018,Won,98000,2025-03-27
+Deccan Industrial 028 Ltd,Deccan Ind 028,27AAECP1027B1Z0,Pune,Maharashtra,411044,lost,98500,2025-04-28
+Deccan Industrial 029 Pvt Ltd,,27AAFCP1028C1ZW,Nashik,Maharashtra,422007,LOST,99000,2025-05-01
+Deccan Industrial 030 Private Limited,,27AAGCP1029D1ZS,Aurangabad,Maharashtra,431136,churned,"₹154,000",2025-06-02
+Deccan Industrial 031 LLP,Deccan Ind 031,27AABCP1030E1Z2,Pune,Maharashtra,411019,won,,
+Deccan Industrial 032 Ltd,,27AAACP1031F1Z0,Pune,Maharashtra,411026,Won,100500,2025-08-04
+Deccan Industrial 033 Pvt Ltd,,27AADCP1032G1ZU,Pune,Maharashtra,411018,lost,101000,2025-09-05
+Deccan Industrial 034 Private Limited,Deccan Ind 034,27AAECP1033H1ZQ,Pune,Maharashtra,411044,LOST,"₹158,000",2025-10-06
+Deccan Industrial 035 LLP,,27AAFCP1034I1ZL,Nashik,Maharashtra,422007,churned,102000,2025-11-07
+Deccan Industrial 036 Ltd,,27AAGCP1035J1ZH,Aurangabad,Maharashtra,431136,won,,2025-12-08
+Deccan Industrial 037 Pvt Ltd,Deccan Ind 037,27AABCP1036K1ZJ,Pune,Maharashtra,411019,Won,103000,
+Deccan Industrial 038 Private Limited,,27AAACP1037L1ZH,Pune,Maharashtra,411026,lost,"₹162,000",2025-02-10
+Deccan Industrial 039 LLP,,27AADCP1038M1ZB,Pune,Maharashtra,411018,LOST,104000,2025-03-11
+Deccan Industrial 040 Ltd,Deccan Ind 040,27AAECP1039N1Z7,Pune,Maharashtra,411044,churned,104500,2025-04-12
+Deccan Industrial 041 Pvt Ltd,,27AAFCP1040O1ZB,Nashik,Maharashtra,422007,won,,2025-05-13
+Deccan Industrial 042 Private Limited,,27AAGCP1041P1Z7,Aurangabad,Maharashtra,431136,Won,"₹166,000",2025-06-14
+Deccan Industrial 043 LLP,Deccan Ind 043,27AABCP1042Q1Z9,Pune,Maharashtra,411019,lost,106000,
+Deccan Industrial 044 Ltd,,27AAACP1043R1Z7,Pune,Maharashtra,411026,LOST,106500,2025-08-16
+Deccan Industrial 045 Pvt Ltd,,27AADCP1044S1Z1,Pune,Maharashtra,411018,churned,107000,2025-09-17
+Deccan Industrial 046 Private Limited,Deccan Ind 046,27AAECP1045T1ZX,Pune,Maharashtra,411044,won,,2025-10-18
+Deccan Industrial 047 LLP,,27AAFCP1046U1ZT,Nashik,Maharashtra,422007,Won,108000,2025-11-19
+Deccan Industrial 048 Ltd,,27AAGCP1047V1ZP,Aurangabad,Maharashtra,431136,lost,108500,2025-12-20
+Deccan Industrial 049 Pvt Ltd,Deccan Ind 049,27AABCP1048W1ZR,Pune,Maharashtra,411019,LOST,109000,
+Deccan Industrial 050 Private Limited,,27AAACP1049X1ZP,Pune,Maharashtra,411026,churned,"₹174,000",2025-02-22
+Deccan Industrial 051 LLP,,27AADCP1050Y1ZR,Pune,Maharashtra,411018,won,,2025-03-23
+Deccan Industrial 052 Ltd,Deccan Ind 052,27AAECP1051Z1ZN,Pune,Maharashtra,411044,Won,110500,2025-04-24
+Deccan Industrial 053 Pvt Ltd,,27AAFCP1052A1Z0,Nashik,Maharashtra,422007,lost,111000,2025-05-25
+Deccan Industrial 054 Private Limited,,27AAGCP1053B1ZW,Aurangabad,Maharashtra,431136,LOST,"₹178,000",2025-06-26
+Deccan Industrial 055 LLP,Deccan Ind 055,27AABCP1054C1ZY,Pune,Maharashtra,411019,churned,112000,
+Deccan Industrial 056 Ltd,,27AAACP1055D1ZW,Pune,Maharashtra,411026,won,,2025-08-28
+Deccan Industrial 057 Pvt Ltd,,27AADCP1056E1ZQ,Pune,Maharashtra,411018,Won,113000,2025-09-01
+Deccan Industrial 058 Private Limited,Deccan Ind 058,27AAECP1057F1ZM,Pune,Maharashtra,411044,lost,"₹182,000",2025-10-02
+Deccan Industrial 059 LLP,,27AAFCP1058G1ZI,Nashik,Maharashtra,422007,LOST,114000,2025-11-03
+Deccan Industrial 060 Ltd,,27AAGCP1059H1ZE,Aurangabad,Maharashtra,431136,churned,114500,2025-12-04
+Deccan Industrial 061 Pvt Ltd,Deccan Ind 061,27AABCP1060I1ZN,Pune,Maharashtra,411019,won,,
+Deccan Industrial 062 Private Limited,,27AAACP1061J1ZL,Pune,Maharashtra,411026,Won,"₹186,000",2025-02-06
+Deccan Industrial 063 LLP,,27AADCP1062K1ZF,Pune,Maharashtra,411018,lost,116000,2025-03-07
+Deccan Industrial 064 Ltd,Deccan Ind 064,27AAECP1063L1ZB,Pune,Maharashtra,411044,LOST,116500,2025-04-08
+Deccan Industrial 065 Pvt Ltd,,27AAFCP1064M1Z7,Nashik,Maharashtra,422007,churned,117000,2025-05-09
+Deccan Industrial 066 Private Limited,,27AAGCP1065N1Z3,Aurangabad,Maharashtra,431136,won,,2025-06-10
+Deccan Industrial 067 LLP,Deccan Ind 067,27AABCP1066O1Z5,Pune,Maharashtra,411019,Won,118000,
+Deccan Industrial 068 Ltd,,27AAACP1067P1Z3,Pune,Maharashtra,411026,lost,118500,2025-08-12
+Deccan Industrial 069 Pvt Ltd,,27AADCP1068Q1ZX,Pune,Maharashtra,411018,LOST,119000,2025-09-13
+Deccan Industrial 070 Private Limited,Deccan Ind 070,27AAECP1069R1ZT,Pune,Maharashtra,411044,churned,"₹194,000",2025-10-14
+Deccan Industrial 071 LLP,,27AAFCP1070S1ZX,Nashik,Maharashtra,422007,won,,2025-11-15
+Deccan Industrial 072 Ltd,,27AAGCP1071T1ZT,Aurangabad,Maharashtra,431136,Won,120500,2025-12-16
+Deccan Industrial 073 Pvt Ltd,Deccan Ind 073,27AABCP1072U1ZV,Pune,Maharashtra,411019,lost,121000,
+Deccan Industrial 074 Private Limited,,27AAACP1073V1ZT,Pune,Maharashtra,411026,LOST,"₹198,000",2025-02-18
+Deccan Industrial 075 LLP,,27AADCP1074W1ZN,Pune,Maharashtra,411018,churned,122000,2025-03-19
+Deccan Industrial 076 Ltd,Deccan Ind 076,27AAECP1075X1ZJ,Pune,Maharashtra,411044,won,,2025-04-20
+Deccan Industrial 077 Pvt Ltd,,27AAFCP1076Y1ZF,Nashik,Maharashtra,422007,Won,123000,2025-05-21
+Deccan Industrial 078 Private Limited,,27AAGCP1077Z1ZB,Aurangabad,Maharashtra,431136,lost,"₹202,000",2025-06-22
+Deccan Industrial 079 LLP,Deccan Ind 079,27AABCP1078A1ZU,Pune,Maharashtra,411019,LOST,124000,
+Deccan Industrial 080 Ltd,,27AAACP1079B1ZS,Pune,Maharashtra,411026,churned,124500,2025-08-24
+Deccan Industrial 081 Pvt Ltd,,27AADCP1080C1ZU,Pune,Maharashtra,411018,won,,2025-09-25
+Deccan Industrial 082 Private Limited,Deccan Ind 082,27AAECP1081D1ZQ,Pune,Maharashtra,411044,Won,"₹206,000",2025-10-26
+Deccan Industrial 083 LLP,,27AAFCP1082E1ZM,Nashik,Maharashtra,422007,lost,126000,2025-11-27
+Deccan Industrial 084 Ltd,,27AAGCP1083F1ZI,Aurangabad,Maharashtra,431136,LOST,126500,2025-12-28
+Deccan Industrial 085 Pvt Ltd,Deccan Ind 085,27AABCP1084G1ZK,Pune,Maharashtra,411019,churned,127000,
+Deccan Industrial 086 Private Limited,,27AAACP1085H1ZI,Pune,Maharashtra,411026,won,,2025-02-02
+Deccan Industrial 087 LLP,,27AADCP1086I1ZB,Pune,Maharashtra,411018,Won,128000,2025-03-03
+Deccan Industrial 088 Ltd,Deccan Ind 088,27AAECP1087J1Z7,Pune,Maharashtra,411044,lost,128500,2025-04-04
+Deccan Industrial 089 Pvt Ltd,,27AAFCP1088K1Z3,Nashik,Maharashtra,422007,LOST,129000,2025-05-05
+Deccan Industrial 090 Private Limited,,27AAGCP1089L1ZZ,Aurangabad,Maharashtra,431136,churned,"₹214,000",2025-06-06
+Deccan Industrial 091 LLP,Deccan Ind 091,27AABCP1090M1Z9,Pune,Maharashtra,411019,won,,
+Deccan Industrial 092 Ltd,,27AAACP1091N1Z7,Pune,Maharashtra,411026,Won,130500,2025-08-08
+Deccan Industrial 093 Pvt Ltd,,27AADCP1092O1Z1,Pune,Maharashtra,411018,lost,131000,2025-09-09
+Deccan Industrial 094 Private Limited,Deccan Ind 094,27AAECP1093P1ZX,Pune,Maharashtra,411044,LOST,"₹218,000",2025-10-10
+Deccan Industrial 095 LLP,,27AAFCP1094Q1ZT,Nashik,Maharashtra,422007,churned,132000,2025-11-11
+Deccan Industrial 096 Ltd,,27AAGCP1095R1ZP,Aurangabad,Maharashtra,431136,won,,2025-12-12
+Deccan Industrial 097 Pvt Ltd,Deccan Ind 097,27AABCP1096S1ZR,Pune,Maharashtra,411019,Won,133000,
+Deccan Industrial 098 Private Limited,,27AAACP1097T1ZP,Pune,Maharashtra,411026,lost,"₹222,000",2025-02-14
+Deccan Industrial 099 LLP,,27AADCP1098U1ZJ,Pune,Maharashtra,411018,LOST,134000,2025-03-15
+Deccan Industrial 100 Ltd,Deccan Ind 100,27AAECP1099V1ZF,Pune,Maharashtra,411044,churned,134500,2025-04-16
+Deccan Industrial 101 Pvt Ltd,,27AAFCP1100W1Z2,Nashik,Maharashtra,422007,won,,2025-05-17
+Deccan Industrial 102 Private Limited,,27AAGCP1101X1ZY,Aurangabad,Maharashtra,431136,Won,"₹226,000",2025-06-18
+Deccan Industrial 103 LLP,Deccan Ind 103,27AABCP1102Y1Z0,Pune,Maharashtra,411019,lost,136000,
+Deccan Industrial 104 Ltd,,27AAACP1103Z1ZY,Pune,Maharashtra,411026,LOST,136500,2025-08-20
+Deccan Industrial 105 Pvt Ltd,,27AADCP1104A1Z9,Pune,Maharashtra,411018,churned,137000,2025-09-21
+Deccan Industrial 106 Private Limited,Deccan Ind 106,27AAECP1105B1Z5,Pune,Maharashtra,411044,won,,2025-10-22
+Deccan Industrial 107 LLP,,27AAFCP1106C1Z1,Nashik,Maharashtra,422007,Won,138000,2025-11-23
+Deccan Industrial 108 Ltd,,27AAGCP1107D1ZX,Aurangabad,Maharashtra,431136,lost,138500,2025-12-24
+Deccan Industrial 109 Pvt Ltd,Deccan Ind 109,27AABCP1108E1ZZ,Pune,Maharashtra,411019,LOST,139000,
+Deccan Industrial 110 Private Limited,,27AAACP1109F1ZX,Pune,Maharashtra,411026,churned,"₹234,000",2025-02-26
+Deccan Industrial 111 LLP,,27AADCP1110G1ZZ,Pune,Maharashtra,411018,won,,2025-03-27
+Deccan Industrial 112 Ltd,Deccan Ind 112,27AAECP1111H1ZV,Pune,Maharashtra,411044,Won,140500,2025-04-28
+Deccan Industrial 113 Pvt Ltd,,27AAFCP1112I1ZQ,Nashik,Maharashtra,422007,lost,141000,2025-05-01
+Deccan Industrial 114 Private Limited,,27AAGCP1113J1ZM,Aurangabad,Maharashtra,431136,LOST,"₹238,000",2025-06-02
+Deccan Industrial 115 LLP,Deccan Ind 115,27AABCP1114K1ZO,Pune,Maharashtra,411019,churned,142000,
+Deccan Industrial 116 Ltd,,27AAACP1115L1ZM,Pune,Maharashtra,411026,won,,2025-08-04
+Deccan Industrial 117 Pvt Ltd,,27AADCP1116M1ZG,Pune,Maharashtra,411018,Won,143000,2025-09-05
+Deccan Industrial 118 Private Limited,Deccan Ind 118,27AAECP1117N1ZC,Pune,Maharashtra,411044,lost,"₹242,000",2025-10-06
+Deccan Industrial 119 LLP,,27AAFCP1118O1Z8,Nashik,Maharashtra,422007,LOST,144000,2025-11-07
+Deccan Industrial 120 Ltd,,27AAGCP1119P1Z4,Aurangabad,Maharashtra,431136,churned,144500,2025-12-08
+Sahyadri Components 01 Pvt Ltd,,,Pune,Maharashtra,411019.0,won,,15-03-2025
+Sahyadri Components 02 Pvt Ltd,,,Pune,Maharashtra,,lost,65000,15-03-2025
+Sahyadri Components 03 Pvt Ltd,,,Pune,Maharashtra,411018.0,won,65000,15-03-2025
+Sahyadri Components 04 Pvt Ltd,,,Pune,Maharashtra,,lost,,15-03-2025
+Sahyadri Components 05 Pvt Ltd,,,Nashik,Maharashtra,422007.0,won,65000,15-03-2025
+Sahyadri Components 06 Pvt Ltd,,,Aurangabad,Maharashtra,,lost,65000,15-03-2025
+Sahyadri Components 07 Pvt Ltd,,,Pune,Maharashtra,411019.0,won,,15-03-2025
+Sahyadri Components 08 Pvt Ltd,,,Pune,Maharashtra,,lost,65000,15-03-2025
+Sahyadri Components 09 Pvt Ltd,,,Pune,Maharashtra,411018.0,won,65000,15-03-2025
+Sahyadri Components 10 Pvt Ltd,,,Pune,Maharashtra,,lost,,15-03-2025
+Sahyadri Components 11 Pvt Ltd,,,Nashik,Maharashtra,422007.0,won,65000,15-03-2025
+Sahyadri Components 12 Pvt Ltd,,,Aurangabad,Maharashtra,,lost,65000,15-03-2025
+Sahyadri Components 13 Pvt Ltd,,,Pune,Maharashtra,411019.0,won,,15-03-2025
+Sahyadri Components 14 Pvt Ltd,,,Pune,Maharashtra,,lost,65000,15-03-2025
+Sahyadri Components 15 Pvt Ltd,,,Pune,Maharashtra,411018.0,won,65000,15-03-2025
+Sahyadri Components 16 Pvt Ltd,,,Pune,Maharashtra,,lost,,15-03-2025
+Sahyadri Components 17 Pvt Ltd,,,Nashik,Maharashtra,422007.0,won,65000,15-03-2025
+Sahyadri Components 18 Pvt Ltd,,,Aurangabad,Maharashtra,,lost,65000,15-03-2025
+Sahyadri Components 19 Pvt Ltd,,,Pune,Maharashtra,411019.0,won,,15-03-2025
+Sahyadri Components 20 Pvt Ltd,,,Pune,Maharashtra,,lost,65000,15-03-2025
+Sahyadri Components 21 Pvt Ltd,,,Pune,Maharashtra,411018.0,won,65000,15-03-2025
+Sahyadri Components 22 Pvt Ltd,,,Pune,Maharashtra,,lost,,15-03-2025
+Sahyadri Components 23 Pvt Ltd,,,Nashik,Maharashtra,422007.0,won,65000,15-03-2025
+Sahyadri Components 24 Pvt Ltd,,,Aurangabad,Maharashtra,,lost,65000,15-03-2025
+Sahyadri Components 25 Pvt Ltd,,,Pune,Maharashtra,411019.0,won,,15-03-2025
+deccan industrial 001 private limited,Deccan Brand 001,27AABCP1000A1ZG,Pune,Maharashtra,411019,won,99000,2025-05-10
+deccan industrial 002 private limited,Deccan Brand 002,27AAACP1001B1ZE,Pune,Maharashtra,411026,won,99000,2025-05-10
+deccan industrial 003 private limited,Deccan Brand 003,27AADCP1002C1Z8,Pune,Maharashtra,411018,won,99000,2025-05-10
+deccan industrial 004 private limited,Deccan Brand 004,27AAECP1003D1Z4,Pune,Maharashtra,411044,won,99000,2025-05-10
+deccan industrial 005 private limited,Deccan Brand 005,27AAFCP1004E1Z0,Nashik,Maharashtra,422007,won,99000,2025-05-10
+deccan industrial 006 private limited,Deccan Brand 006,27AAGCP1005F1ZW,Aurangabad,Maharashtra,431136,won,99000,2025-05-10
+deccan industrial 007 private limited,Deccan Brand 007,27AABCP1006G1ZY,Pune,Maharashtra,411019,won,99000,2025-05-10
+deccan industrial 008 private limited,Deccan Brand 008,27AAACP1007H1ZW,Pune,Maharashtra,411026,won,99000,2025-05-10
+deccan industrial 009 private limited,Deccan Brand 009,27AADCP1008I1ZP,Pune,Maharashtra,411018,won,99000,2025-05-10
+deccan industrial 010 private limited,Deccan Brand 010,27AAECP1009J1ZL,Pune,Maharashtra,411044,won,99000,2025-05-10
+deccan industrial 011 private limited,Deccan Brand 011,27AAFCP1010K1ZP,Nashik,Maharashtra,422007,won,99000,2025-05-10
+deccan industrial 012 private limited,Deccan Brand 012,27AAGCP1011L1ZL,Aurangabad,Maharashtra,431136,won,99000,2025-05-10
+deccan industrial 013 private limited,Deccan Brand 013,27AABCP1012M1ZN,Pune,Maharashtra,411019,won,99000,2025-05-10
+deccan industrial 014 private limited,Deccan Brand 014,27AAACP1013N1ZL,Pune,Maharashtra,411026,won,99000,2025-05-10
+deccan industrial 015 private limited,Deccan Brand 015,27AADCP1014O1ZF,Pune,Maharashtra,411018,won,99000,2025-05-10
+sahyadri components 01 private limited,,,Pune,Maharashtra,411019,won,72000,2025-06-01
+sahyadri components 03 private limited,,,Pune,Maharashtra,411018,won,72000,2025-06-01
+sahyadri components 05 private limited,,,Nashik,Maharashtra,422007,won,72000,2025-06-01
+sahyadri components 07 private limited,,,Pune,Maharashtra,411019,won,72000,2025-06-01
+sahyadri components 09 private limited,,,Pune,Maharashtra,411018,won,72000,2025-06-01
+sahyadri components 11 private limited,,,Nashik,Maharashtra,422007,won,72000,2025-06-01
+sahyadri components 13 private limited,,,Pune,Maharashtra,411019,won,72000,2025-06-01
+sahyadri components 15 private limited,,,Pune,Maharashtra,411018,won,72000,2025-06-01
+sahyadri components 17 private limited,,,Nashik,Maharashtra,422007,won,72000,2025-06-01
+sahyadri components 19 private limited,,,Pune,Maharashtra,411019,won,72000,2025-06-01
+Bad Length One Pvt Ltd,,27AABCP1234,Pune,Maharashtra,411001,won,50000,2025-01-10
+Bad Length Two LLP,,27AABCP1234A1Z599,Pune,Maharashtra,411001,lost,50000,2025-01-11
+Bad Length Three Ltd,,SHORT,Pune,Maharashtra,411001,won,,
+Bad Format One Pvt Ltd,,27123451234A1Z5,Pune,Maharashtra,411001,won,45000,
+Bad Format Two Pvt Ltd,,27AABCP1234A0Z5,Pune,Maharashtra,411001,lost,,
+Bad Format Three Pvt Ltd,,27AABCP1234A1X5,Pune,Maharashtra,411001,churned,30000,
+Bad State 00 Pvt Ltd,,00AABCP1000A1ZW,Pune,Maharashtra,411001,won,40000,
+Bad State 39 Pvt Ltd,,39AABCP1001B1Z8,Pune,Maharashtra,411001,won,40000,
+Bad State 99 Pvt Ltd,,99AABCP1002C1ZZ,Pune,Maharashtra,411001,lost,40000,
+Bad Checksum 1 Pvt Ltd,,27AABZZ2000A1ZA,Pune,Maharashtra,411001,won,55000,
+Bad Checksum 2 Pvt Ltd,,27AABZZ2001A1ZA,Pune,Maharashtra,411001,won,55000,
+Bad Checksum 3 Pvt Ltd,,27AABZZ2002A1ZA,Pune,Maharashtra,411001,won,55000,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,Pune,Maharashtra,411001,won,10000,
+,,27AADDD3001K1ZY,Pune,Maharashtra,411001,won,10000,
+No City No GSTIN Ltd,,,,Maharashtra,,won,10000,
+No City No GSTIN Two,,,,Maharashtra,411001,lost,,
+Bad Outcome Co,,,Pune,Maharashtra,411001,pending,10000,
+Bad Outcome Two,,,Pune,Maharashtra,411001,qualified,10000,
+Negative Deal Co,,,Pune,Maharashtra,411001,won,-5000,
+NonNumeric Deal Co,,,Pune,Maharashtra,411001,won,approx fifty k,
+Bad Date Co,,,Pune,Maharashtra,411001,won,25000,31-31-2025
+Bad Pincode Co,,,Pune,Maharashtra,4110,won,25000,2025-02-01
