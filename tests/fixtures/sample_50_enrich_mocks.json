@@ -1,0 +1,2957 @@
+[
+  {
+    "index": 1,
+    "gstin": "27AABCP1000A1ZG",
+    "legal_name": "Precision CNC Tools Pvt Ltd",
+    "trade_name": "Precision CNC",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411018",
+    "gst_payload": {
+      "gstin": "27AABCP1000A1ZG",
+      "lgnm": "Precision CNC Tools Pvt Ltd",
+      "tradeNam": "Precision CNC",
+      "ctb": "Private Limited Company",
+      "rgdt": "12/04/2016",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 5 Cr. to 25 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411018"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace001",
+          "displayName": {
+            "text": "Precision CNC"
+          },
+          "primaryType": "machine_shop",
+          "types": [
+            "cnc_machining",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 10, MIDC Bhosari, Pune, Maharashtra 411018",
+          "rating": 4.5,
+          "userRatingCount": 42,
+          "websiteUri": "https://precisioncnc.example.in",
+          "nationalPhoneNumber": "020-27121000"
+        }
+      ]
+    }
+  },
+  {
+    "index": 2,
+    "gstin": "27AABCP1001B1ZD",
+    "legal_name": "Sahyadri Auto Forgings Pvt Ltd",
+    "trade_name": "Sahyadri Forgings",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411019",
+    "gst_payload": {
+      "gstin": "27AABCP1001B1ZD",
+      "lgnm": "Sahyadri Auto Forgings Pvt Ltd",
+      "tradeNam": "Sahyadri Forgings",
+      "ctb": "Private Limited Company",
+      "rgdt": "05/08/2013",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 25 Cr. to 100 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411019"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace002",
+          "displayName": {
+            "text": "Sahyadri Forgings"
+          },
+          "primaryType": "auto_parts_store",
+          "types": [
+            "automotive",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 11, MIDC Bhosari, Pune, Maharashtra 411019",
+          "rating": 4.3,
+          "userRatingCount": 68,
+          "websiteUri": "https://sahyadriforge.example.in",
+          "nationalPhoneNumber": "020-27121001"
+        }
+      ]
+    }
+  },
+  {
+    "index": 3,
+    "gstin": "27AABCP1002C1ZA",
+    "legal_name": "Deccan Corrugated Packaging LLP",
+    "trade_name": "Deccan Packaging",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411020",
+    "gst_payload": {
+      "gstin": "27AABCP1002C1ZA",
+      "lgnm": "Deccan Corrugated Packaging LLP",
+      "tradeNam": "Deccan Packaging",
+      "ctb": "Limited Liability Partnership",
+      "rgdt": "19/11/2019",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing",
+        "Wholesale Business"
+      ],
+      "aggreTurnOver": "Slab: Rs. 1.5 Cr. to 5 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411020"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace003",
+          "displayName": {
+            "text": "Deccan Packaging"
+          },
+          "primaryType": "packaging_supply_store",
+          "types": [
+            "packaging",
+            "supplier"
+          ],
+          "formattedAddress": "Plot 12, MIDC Bhosari, Pune, Maharashtra 411020",
+          "rating": 4.1,
+          "userRatingCount": 18,
+          "websiteUri": "https://deccanpack.example.in",
+          "nationalPhoneNumber": "020-27121002"
+        }
+      ]
+    }
+  },
+  {
+    "index": 4,
+    "gstin": "27AABCP1003D1Z7",
+    "legal_name": "Western Pharma Formulations Ltd",
+    "trade_name": "Western Pharma",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411021",
+    "gst_payload": {
+      "gstin": "27AABCP1003D1Z7",
+      "lgnm": "Western Pharma Formulations Ltd",
+      "tradeNam": "Western Pharma",
+      "ctb": "Public Limited Company",
+      "rgdt": "22/01/2010",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 100 Cr. to 500 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411021"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace004",
+          "displayName": {
+            "text": "Western Pharma"
+          },
+          "primaryType": "pharmaceutical_company",
+          "types": [
+            "health",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 13, MIDC Bhosari, Pune, Maharashtra 411021",
+          "rating": 4.6,
+          "userRatingCount": 95,
+          "websiteUri": "https://westernpharma.example.in",
+          "nationalPhoneNumber": "020-27121003"
+        }
+      ]
+    }
+  },
+  {
+    "index": 5,
+    "gstin": "27AABCP1004E1Z4",
+    "legal_name": "Kaveri Polymer Moulders Pvt Ltd",
+    "trade_name": "Kaveri Polymers",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411022",
+    "gst_payload": {
+      "gstin": "27AABCP1004E1Z4",
+      "lgnm": "Kaveri Polymer Moulders Pvt Ltd",
+      "tradeNam": "Kaveri Polymers",
+      "ctb": "Private Limited Company",
+      "rgdt": "14/06/2018",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 5 Cr. to 25 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411022"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace005",
+          "displayName": {
+            "text": "Kaveri Polymers"
+          },
+          "primaryType": "plastics_manufacturer",
+          "types": [
+            "injection_molding",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 14, MIDC Bhosari, Pune, Maharashtra 411022",
+          "rating": 3.9,
+          "userRatingCount": 12,
+          "websiteUri": null,
+          "nationalPhoneNumber": "020-27121004"
+        }
+      ]
+    }
+  },
+  {
+    "index": 6,
+    "gstin": "27AABCP1005F1Z1",
+    "legal_name": "Apex Switchgear & Controls Pvt Ltd",
+    "trade_name": "Apex Switchgear",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411023",
+    "gst_payload": {
+      "gstin": "27AABCP1005F1Z1",
+      "lgnm": "Apex Switchgear & Controls Pvt Ltd",
+      "tradeNam": "Apex Switchgear",
+      "ctb": "Private Limited Company",
+      "rgdt": "03/03/2015",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 5 Cr. to 25 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411023"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace006",
+          "displayName": {
+            "text": "Apex Switchgear"
+          },
+          "primaryType": "electrical_supply_store",
+          "types": [
+            "electrical",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 15, MIDC Bhosari, Pune, Maharashtra 411023",
+          "rating": 4.4,
+          "userRatingCount": 31,
+          "websiteUri": "https://apexswitchgear.example.in",
+          "nationalPhoneNumber": "020-27121005"
+        }
+      ]
+    }
+  },
+  {
+    "index": 7,
+    "gstin": "27AABCP1006G1ZY",
+    "legal_name": "Indrayani Dairy & Foods Pvt Ltd",
+    "trade_name": "Indrayani Foods",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411024",
+    "gst_payload": {
+      "gstin": "27AABCP1006G1ZY",
+      "lgnm": "Indrayani Dairy & Foods Pvt Ltd",
+      "tradeNam": "Indrayani Foods",
+      "ctb": "Private Limited Company",
+      "rgdt": "11/09/2014",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 25 Cr. to 100 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411024"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace007",
+          "displayName": {
+            "text": "Indrayani Foods"
+          },
+          "primaryType": "food_manufacturer",
+          "types": [
+            "food_processing",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 16, MIDC Bhosari, Pune, Maharashtra 411024",
+          "rating": 4.2,
+          "userRatingCount": 110,
+          "websiteUri": "https://indrayanifoods.example.in",
+          "nationalPhoneNumber": "020-27121006"
+        }
+      ]
+    }
+  },
+  {
+    "index": 8,
+    "gstin": "27AABCP1007H1ZV",
+    "legal_name": "Pavana Steel Fabricators LLP",
+    "trade_name": "Pavana Steel",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411025",
+    "gst_payload": {
+      "gstin": "27AABCP1007H1ZV",
+      "lgnm": "Pavana Steel Fabricators LLP",
+      "tradeNam": "Pavana Steel",
+      "ctb": "Limited Liability Partnership",
+      "rgdt": "27/07/2020",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 1.5 Cr. to 5 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411025"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Not Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace008",
+          "displayName": {
+            "text": "Pavana Steel"
+          },
+          "primaryType": "steel_fabricator",
+          "types": [
+            "metal_fabrication",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 17, MIDC Bhosari, Pune, Maharashtra 411025",
+          "rating": 3.7,
+          "userRatingCount": 8,
+          "websiteUri": null,
+          "nationalPhoneNumber": "020-27121007"
+        }
+      ]
+    }
+  },
+  {
+    "index": 9,
+    "gstin": "27AABCP1008I1ZR",
+    "legal_name": "Mula Logistics & Cold Chain Pvt Ltd",
+    "trade_name": "Mula Logistics",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411026",
+    "gst_payload": {
+      "gstin": "27AABCP1008I1ZR",
+      "lgnm": "Mula Logistics & Cold Chain Pvt Ltd",
+      "tradeNam": "Mula Logistics",
+      "ctb": "Private Limited Company",
+      "rgdt": "08/02/2017",
+      "sts": "Active",
+      "nba": [
+        "Supplier of Services"
+      ],
+      "aggreTurnOver": "Slab: Rs. 5 Cr. to 25 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411026"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace009",
+          "displayName": {
+            "text": "Mula Logistics"
+          },
+          "primaryType": "logistics_service",
+          "types": [
+            "warehousing",
+            "freight"
+          ],
+          "formattedAddress": "Plot 18, MIDC Bhosari, Pune, Maharashtra 411026",
+          "rating": 4.0,
+          "userRatingCount": 27,
+          "websiteUri": "https://mulalogistics.example.in",
+          "nationalPhoneNumber": "020-27121008"
+        }
+      ]
+    }
+  },
+  {
+    "index": 10,
+    "gstin": "27AABCP1009J1ZO",
+    "legal_name": "Bhosari Industrial Pumps Pvt Ltd",
+    "trade_name": "Bhosari Pumps",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411027",
+    "gst_payload": {
+      "gstin": "27AABCP1009J1ZO",
+      "lgnm": "Bhosari Industrial Pumps Pvt Ltd",
+      "tradeNam": "Bhosari Pumps",
+      "ctb": "Private Limited Company",
+      "rgdt": "16/05/2012",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 25 Cr. to 100 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411027"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace010",
+          "displayName": {
+            "text": "Bhosari Pumps"
+          },
+          "primaryType": "industrial_equipment_supplier",
+          "types": [
+            "machinery",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 19, MIDC Bhosari, Pune, Maharashtra 411027",
+          "rating": 4.7,
+          "userRatingCount": 54,
+          "websiteUri": "https://bhosaripumps.example.in",
+          "nationalPhoneNumber": "020-27121009"
+        }
+      ]
+    }
+  },
+  {
+    "index": 11,
+    "gstin": "27AABCP1010K1ZT",
+    "legal_name": "Precision CNC Unit 2 Ltd",
+    "trade_name": "Precision CNC 2",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411028",
+    "gst_payload": {
+      "gstin": "27AABCP1010K1ZT",
+      "lgnm": "Precision CNC Unit 2 Ltd",
+      "tradeNam": "Precision CNC 2",
+      "ctb": "Private Limited Company",
+      "rgdt": "12/04/2016",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 5 Cr. to 25 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411028"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace011",
+          "displayName": {
+            "text": "Precision CNC 2"
+          },
+          "primaryType": "machine_shop",
+          "types": [
+            "cnc_machining",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 20, MIDC Bhosari, Pune, Maharashtra 411028",
+          "rating": 4.5,
+          "userRatingCount": 42,
+          "websiteUri": "https://precisioncnc.example.in",
+          "nationalPhoneNumber": "020-27121010"
+        }
+      ]
+    }
+  },
+  {
+    "index": 12,
+    "gstin": "27AABCP1011L1ZQ",
+    "legal_name": "Sahyadri Forgings Unit 2 Industries",
+    "trade_name": "Sahyadri Forgings 2",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411029",
+    "gst_payload": {
+      "gstin": "27AABCP1011L1ZQ",
+      "lgnm": "Sahyadri Forgings Unit 2 Industries",
+      "tradeNam": "Sahyadri Forgings 2",
+      "ctb": "Private Limited Company",
+      "rgdt": "05/08/2013",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 25 Cr. to 100 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411029"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace012",
+          "displayName": {
+            "text": "Sahyadri Forgings 2"
+          },
+          "primaryType": "auto_parts_store",
+          "types": [
+            "automotive",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 21, MIDC Bhosari, Pune, Maharashtra 411029",
+          "rating": 4.3,
+          "userRatingCount": 68,
+          "websiteUri": "https://sahyadriforge.example.in",
+          "nationalPhoneNumber": "020-27121011"
+        }
+      ]
+    }
+  },
+  {
+    "index": 13,
+    "gstin": "27AABCP1012M1ZN",
+    "legal_name": "Deccan Packaging Unit 2 Pvt Ltd",
+    "trade_name": "Deccan Packaging 2",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411030",
+    "gst_payload": {
+      "gstin": "27AABCP1012M1ZN",
+      "lgnm": "Deccan Packaging Unit 2 Pvt Ltd",
+      "tradeNam": "Deccan Packaging 2",
+      "ctb": "Limited Liability Partnership",
+      "rgdt": "19/11/2019",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing",
+        "Wholesale Business"
+      ],
+      "aggreTurnOver": "Slab: Rs. 1.5 Cr. to 5 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411030"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace013",
+          "displayName": {
+            "text": "Deccan Packaging 2"
+          },
+          "primaryType": "packaging_supply_store",
+          "types": [
+            "packaging",
+            "supplier"
+          ],
+          "formattedAddress": "Plot 22, MIDC Bhosari, Pune, Maharashtra 411030",
+          "rating": 4.1,
+          "userRatingCount": 18,
+          "websiteUri": "https://deccanpack.example.in",
+          "nationalPhoneNumber": "020-27121012"
+        }
+      ]
+    }
+  },
+  {
+    "index": 14,
+    "gstin": "27AABCP1013N1ZK",
+    "legal_name": "Western Pharma Unit 2 LLP",
+    "trade_name": "Western Pharma 2",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411031",
+    "gst_payload": {
+      "gstin": "27AABCP1013N1ZK",
+      "lgnm": "Western Pharma Unit 2 LLP",
+      "tradeNam": "Western Pharma 2",
+      "ctb": "Public Limited Company",
+      "rgdt": "22/01/2010",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 100 Cr. to 500 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411031"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace014",
+          "displayName": {
+            "text": "Western Pharma 2"
+          },
+          "primaryType": "pharmaceutical_company",
+          "types": [
+            "health",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 23, MIDC Bhosari, Pune, Maharashtra 411031",
+          "rating": 4.6,
+          "userRatingCount": 95,
+          "websiteUri": "https://westernpharma.example.in",
+          "nationalPhoneNumber": "020-27121013"
+        }
+      ]
+    }
+  },
+  {
+    "index": 15,
+    "gstin": "27AABCP1014O1ZH",
+    "legal_name": "Kaveri Polymers Unit 2 Ltd",
+    "trade_name": "Kaveri Polymers 2",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411032",
+    "gst_payload": {
+      "gstin": "27AABCP1014O1ZH",
+      "lgnm": "Kaveri Polymers Unit 2 Ltd",
+      "tradeNam": "Kaveri Polymers 2",
+      "ctb": "Private Limited Company",
+      "rgdt": "14/06/2018",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 5 Cr. to 25 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411032"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace015",
+          "displayName": {
+            "text": "Kaveri Polymers 2"
+          },
+          "primaryType": "plastics_manufacturer",
+          "types": [
+            "injection_molding",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 24, MIDC Bhosari, Pune, Maharashtra 411032",
+          "rating": 3.9,
+          "userRatingCount": 12,
+          "websiteUri": null,
+          "nationalPhoneNumber": "020-27121014"
+        }
+      ]
+    }
+  },
+  {
+    "index": 16,
+    "gstin": "27AABCP1015P1ZE",
+    "legal_name": "Apex Switchgear Unit 2 Industries",
+    "trade_name": "Apex Switchgear 2",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411018",
+    "gst_payload": {
+      "gstin": "27AABCP1015P1ZE",
+      "lgnm": "Apex Switchgear Unit 2 Industries",
+      "tradeNam": "Apex Switchgear 2",
+      "ctb": "Private Limited Company",
+      "rgdt": "03/03/2015",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 5 Cr. to 25 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411018"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace016",
+          "displayName": {
+            "text": "Apex Switchgear 2"
+          },
+          "primaryType": "electrical_supply_store",
+          "types": [
+            "electrical",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 25, MIDC Bhosari, Pune, Maharashtra 411018",
+          "rating": 4.4,
+          "userRatingCount": 31,
+          "websiteUri": "https://apexswitchgear.example.in",
+          "nationalPhoneNumber": "020-27121015"
+        }
+      ]
+    }
+  },
+  {
+    "index": 17,
+    "gstin": "27AABCP1016Q1ZB",
+    "legal_name": "Indrayani Foods Unit 2 Pvt Ltd",
+    "trade_name": "Indrayani Foods 2",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411019",
+    "gst_payload": {
+      "gstin": "27AABCP1016Q1ZB",
+      "lgnm": "Indrayani Foods Unit 2 Pvt Ltd",
+      "tradeNam": "Indrayani Foods 2",
+      "ctb": "Private Limited Company",
+      "rgdt": "11/09/2014",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 25 Cr. to 100 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411019"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace017",
+          "displayName": {
+            "text": "Indrayani Foods 2"
+          },
+          "primaryType": "food_manufacturer",
+          "types": [
+            "food_processing",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 26, MIDC Bhosari, Pune, Maharashtra 411019",
+          "rating": 4.2,
+          "userRatingCount": 110,
+          "websiteUri": "https://indrayanifoods.example.in",
+          "nationalPhoneNumber": "020-27121016"
+        }
+      ]
+    }
+  },
+  {
+    "index": 18,
+    "gstin": "27AABCP1017R1Z8",
+    "legal_name": "Pavana Steel Unit 2 LLP",
+    "trade_name": "Pavana Steel 2",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411020",
+    "gst_payload": {
+      "gstin": "27AABCP1017R1Z8",
+      "lgnm": "Pavana Steel Unit 2 LLP",
+      "tradeNam": "Pavana Steel 2",
+      "ctb": "Limited Liability Partnership",
+      "rgdt": "27/07/2020",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 1.5 Cr. to 5 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411020"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Not Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace018",
+          "displayName": {
+            "text": "Pavana Steel 2"
+          },
+          "primaryType": "steel_fabricator",
+          "types": [
+            "metal_fabrication",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 27, MIDC Bhosari, Pune, Maharashtra 411020",
+          "rating": 3.7,
+          "userRatingCount": 8,
+          "websiteUri": null,
+          "nationalPhoneNumber": "020-27121017"
+        }
+      ]
+    }
+  },
+  {
+    "index": 19,
+    "gstin": "27AABCP1018S1Z5",
+    "legal_name": "Mula Logistics Unit 2 Ltd",
+    "trade_name": "Mula Logistics 2",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411021",
+    "gst_payload": {
+      "gstin": "27AABCP1018S1Z5",
+      "lgnm": "Mula Logistics Unit 2 Ltd",
+      "tradeNam": "Mula Logistics 2",
+      "ctb": "Private Limited Company",
+      "rgdt": "08/02/2017",
+      "sts": "Active",
+      "nba": [
+        "Supplier of Services"
+      ],
+      "aggreTurnOver": "Slab: Rs. 5 Cr. to 25 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411021"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace019",
+          "displayName": {
+            "text": "Mula Logistics 2"
+          },
+          "primaryType": "logistics_service",
+          "types": [
+            "warehousing",
+            "freight"
+          ],
+          "formattedAddress": "Plot 28, MIDC Bhosari, Pune, Maharashtra 411021",
+          "rating": 4.0,
+          "userRatingCount": 27,
+          "websiteUri": "https://mulalogistics.example.in",
+          "nationalPhoneNumber": "020-27121018"
+        }
+      ]
+    }
+  },
+  {
+    "index": 20,
+    "gstin": "27AABCP1019T1Z2",
+    "legal_name": "Bhosari Pumps Unit 2 Industries",
+    "trade_name": "Bhosari Pumps 2",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411022",
+    "gst_payload": {
+      "gstin": "27AABCP1019T1Z2",
+      "lgnm": "Bhosari Pumps Unit 2 Industries",
+      "tradeNam": "Bhosari Pumps 2",
+      "ctb": "Private Limited Company",
+      "rgdt": "16/05/2012",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 25 Cr. to 100 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411022"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace020",
+          "displayName": {
+            "text": "Bhosari Pumps 2"
+          },
+          "primaryType": "industrial_equipment_supplier",
+          "types": [
+            "machinery",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 29, MIDC Bhosari, Pune, Maharashtra 411022",
+          "rating": 4.7,
+          "userRatingCount": 54,
+          "websiteUri": "https://bhosaripumps.example.in",
+          "nationalPhoneNumber": "020-27121019"
+        }
+      ]
+    }
+  },
+  {
+    "index": 21,
+    "gstin": "27AABCP1020U1Z7",
+    "legal_name": "Precision CNC Unit 3 Pvt Ltd",
+    "trade_name": "Precision CNC 3",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411023",
+    "gst_payload": {
+      "gstin": "27AABCP1020U1Z7",
+      "lgnm": "Precision CNC Unit 3 Pvt Ltd",
+      "tradeNam": "Precision CNC 3",
+      "ctb": "Private Limited Company",
+      "rgdt": "12/04/2016",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 5 Cr. to 25 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411023"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace021",
+          "displayName": {
+            "text": "Precision CNC 3"
+          },
+          "primaryType": "machine_shop",
+          "types": [
+            "cnc_machining",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 30, MIDC Bhosari, Pune, Maharashtra 411023",
+          "rating": 4.5,
+          "userRatingCount": 42,
+          "websiteUri": "https://precisioncnc.example.in",
+          "nationalPhoneNumber": "020-27121020"
+        }
+      ]
+    }
+  },
+  {
+    "index": 22,
+    "gstin": "27AABCP1021V1Z4",
+    "legal_name": "Sahyadri Forgings Unit 3 LLP",
+    "trade_name": "Sahyadri Forgings 3",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411024",
+    "gst_payload": {
+      "gstin": "27AABCP1021V1Z4",
+      "lgnm": "Sahyadri Forgings Unit 3 LLP",
+      "tradeNam": "Sahyadri Forgings 3",
+      "ctb": "Private Limited Company",
+      "rgdt": "05/08/2013",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 25 Cr. to 100 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411024"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace022",
+          "displayName": {
+            "text": "Sahyadri Forgings 3"
+          },
+          "primaryType": "auto_parts_store",
+          "types": [
+            "automotive",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 31, MIDC Bhosari, Pune, Maharashtra 411024",
+          "rating": 4.3,
+          "userRatingCount": 68,
+          "websiteUri": "https://sahyadriforge.example.in",
+          "nationalPhoneNumber": "020-27121021"
+        }
+      ]
+    }
+  },
+  {
+    "index": 23,
+    "gstin": "27AABCP1022W1Z1",
+    "legal_name": "Deccan Packaging Unit 3 Ltd",
+    "trade_name": "Deccan Packaging 3",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411025",
+    "gst_payload": {
+      "gstin": "27AABCP1022W1Z1",
+      "lgnm": "Deccan Packaging Unit 3 Ltd",
+      "tradeNam": "Deccan Packaging 3",
+      "ctb": "Limited Liability Partnership",
+      "rgdt": "19/11/2019",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing",
+        "Wholesale Business"
+      ],
+      "aggreTurnOver": "Slab: Rs. 1.5 Cr. to 5 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411025"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace023",
+          "displayName": {
+            "text": "Deccan Packaging 3"
+          },
+          "primaryType": "packaging_supply_store",
+          "types": [
+            "packaging",
+            "supplier"
+          ],
+          "formattedAddress": "Plot 32, MIDC Bhosari, Pune, Maharashtra 411025",
+          "rating": 4.1,
+          "userRatingCount": 18,
+          "websiteUri": "https://deccanpack.example.in",
+          "nationalPhoneNumber": "020-27121022"
+        }
+      ]
+    }
+  },
+  {
+    "index": 24,
+    "gstin": "27AABCP1023X1ZY",
+    "legal_name": "Western Pharma Unit 3 Industries",
+    "trade_name": "Western Pharma 3",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411026",
+    "gst_payload": {
+      "gstin": "27AABCP1023X1ZY",
+      "lgnm": "Western Pharma Unit 3 Industries",
+      "tradeNam": "Western Pharma 3",
+      "ctb": "Public Limited Company",
+      "rgdt": "22/01/2010",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 100 Cr. to 500 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411026"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace024",
+          "displayName": {
+            "text": "Western Pharma 3"
+          },
+          "primaryType": "pharmaceutical_company",
+          "types": [
+            "health",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 33, MIDC Bhosari, Pune, Maharashtra 411026",
+          "rating": 4.6,
+          "userRatingCount": 95,
+          "websiteUri": "https://westernpharma.example.in",
+          "nationalPhoneNumber": "020-27121023"
+        }
+      ]
+    }
+  },
+  {
+    "index": 25,
+    "gstin": "27AABCP1024Y1ZV",
+    "legal_name": "Kaveri Polymers Unit 3 Pvt Ltd",
+    "trade_name": "Kaveri Polymers 3",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411027",
+    "gst_payload": {
+      "gstin": "27AABCP1024Y1ZV",
+      "lgnm": "Kaveri Polymers Unit 3 Pvt Ltd",
+      "tradeNam": "Kaveri Polymers 3",
+      "ctb": "Private Limited Company",
+      "rgdt": "14/06/2018",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 5 Cr. to 25 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411027"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace025",
+          "displayName": {
+            "text": "Kaveri Polymers 3"
+          },
+          "primaryType": "plastics_manufacturer",
+          "types": [
+            "injection_molding",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 34, MIDC Bhosari, Pune, Maharashtra 411027",
+          "rating": 3.9,
+          "userRatingCount": 12,
+          "websiteUri": null,
+          "nationalPhoneNumber": "020-27121024"
+        }
+      ]
+    }
+  },
+  {
+    "index": 26,
+    "gstin": "27AABCP1025Z1ZS",
+    "legal_name": "Apex Switchgear Unit 3 LLP",
+    "trade_name": "Apex Switchgear 3",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411028",
+    "gst_payload": {
+      "gstin": "27AABCP1025Z1ZS",
+      "lgnm": "Apex Switchgear Unit 3 LLP",
+      "tradeNam": "Apex Switchgear 3",
+      "ctb": "Private Limited Company",
+      "rgdt": "03/03/2015",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 5 Cr. to 25 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411028"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace026",
+          "displayName": {
+            "text": "Apex Switchgear 3"
+          },
+          "primaryType": "electrical_supply_store",
+          "types": [
+            "electrical",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 35, MIDC Bhosari, Pune, Maharashtra 411028",
+          "rating": 4.4,
+          "userRatingCount": 31,
+          "websiteUri": "https://apexswitchgear.example.in",
+          "nationalPhoneNumber": "020-27121025"
+        }
+      ]
+    }
+  },
+  {
+    "index": 27,
+    "gstin": "27AABCP1026A1Z6",
+    "legal_name": "Indrayani Foods Unit 3 Ltd",
+    "trade_name": "Indrayani Foods 3",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411029",
+    "gst_payload": {
+      "gstin": "27AABCP1026A1Z6",
+      "lgnm": "Indrayani Foods Unit 3 Ltd",
+      "tradeNam": "Indrayani Foods 3",
+      "ctb": "Private Limited Company",
+      "rgdt": "11/09/2014",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 25 Cr. to 100 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411029"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace027",
+          "displayName": {
+            "text": "Indrayani Foods 3"
+          },
+          "primaryType": "food_manufacturer",
+          "types": [
+            "food_processing",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 36, MIDC Bhosari, Pune, Maharashtra 411029",
+          "rating": 4.2,
+          "userRatingCount": 110,
+          "websiteUri": "https://indrayanifoods.example.in",
+          "nationalPhoneNumber": "020-27121026"
+        }
+      ]
+    }
+  },
+  {
+    "index": 28,
+    "gstin": "27AABCP1027B1Z3",
+    "legal_name": "Pavana Steel Unit 3 Industries",
+    "trade_name": "Pavana Steel 3",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411030",
+    "gst_payload": {
+      "gstin": "27AABCP1027B1Z3",
+      "lgnm": "Pavana Steel Unit 3 Industries",
+      "tradeNam": "Pavana Steel 3",
+      "ctb": "Limited Liability Partnership",
+      "rgdt": "27/07/2020",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 1.5 Cr. to 5 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411030"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Not Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace028",
+          "displayName": {
+            "text": "Pavana Steel 3"
+          },
+          "primaryType": "steel_fabricator",
+          "types": [
+            "metal_fabrication",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 37, MIDC Bhosari, Pune, Maharashtra 411030",
+          "rating": 3.7,
+          "userRatingCount": 8,
+          "websiteUri": null,
+          "nationalPhoneNumber": "020-27121027"
+        }
+      ]
+    }
+  },
+  {
+    "index": 29,
+    "gstin": "27AABCP1028C1Z0",
+    "legal_name": "Mula Logistics Unit 3 Pvt Ltd",
+    "trade_name": "Mula Logistics 3",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411031",
+    "gst_payload": {
+      "gstin": "27AABCP1028C1Z0",
+      "lgnm": "Mula Logistics Unit 3 Pvt Ltd",
+      "tradeNam": "Mula Logistics 3",
+      "ctb": "Private Limited Company",
+      "rgdt": "08/02/2017",
+      "sts": "Active",
+      "nba": [
+        "Supplier of Services"
+      ],
+      "aggreTurnOver": "Slab: Rs. 5 Cr. to 25 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411031"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace029",
+          "displayName": {
+            "text": "Mula Logistics 3"
+          },
+          "primaryType": "logistics_service",
+          "types": [
+            "warehousing",
+            "freight"
+          ],
+          "formattedAddress": "Plot 38, MIDC Bhosari, Pune, Maharashtra 411031",
+          "rating": 4.0,
+          "userRatingCount": 27,
+          "websiteUri": "https://mulalogistics.example.in",
+          "nationalPhoneNumber": "020-27121028"
+        }
+      ]
+    }
+  },
+  {
+    "index": 30,
+    "gstin": "27AABCP1029D1ZX",
+    "legal_name": "Bhosari Pumps Unit 3 LLP",
+    "trade_name": "Bhosari Pumps 3",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411032",
+    "gst_payload": {
+      "gstin": "27AABCP1029D1ZX",
+      "lgnm": "Bhosari Pumps Unit 3 LLP",
+      "tradeNam": "Bhosari Pumps 3",
+      "ctb": "Private Limited Company",
+      "rgdt": "16/05/2012",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 25 Cr. to 100 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411032"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace030",
+          "displayName": {
+            "text": "Bhosari Pumps 3"
+          },
+          "primaryType": "industrial_equipment_supplier",
+          "types": [
+            "machinery",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 39, MIDC Bhosari, Pune, Maharashtra 411032",
+          "rating": 4.7,
+          "userRatingCount": 54,
+          "websiteUri": "https://bhosaripumps.example.in",
+          "nationalPhoneNumber": "020-27121029"
+        }
+      ]
+    }
+  },
+  {
+    "index": 31,
+    "gstin": "27AABCP1030E1Z2",
+    "legal_name": "Precision CNC Unit 4 Ltd",
+    "trade_name": "Precision CNC 4",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411018",
+    "gst_payload": {
+      "gstin": "27AABCP1030E1Z2",
+      "lgnm": "Precision CNC Unit 4 Ltd",
+      "tradeNam": "Precision CNC 4",
+      "ctb": "Private Limited Company",
+      "rgdt": "12/04/2016",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 5 Cr. to 25 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411018"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace031",
+          "displayName": {
+            "text": "Precision CNC 4"
+          },
+          "primaryType": "machine_shop",
+          "types": [
+            "cnc_machining",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 40, MIDC Bhosari, Pune, Maharashtra 411018",
+          "rating": 4.5,
+          "userRatingCount": 42,
+          "websiteUri": "https://precisioncnc.example.in",
+          "nationalPhoneNumber": "020-27121030"
+        }
+      ]
+    }
+  },
+  {
+    "index": 32,
+    "gstin": "27AABCP1031F1ZZ",
+    "legal_name": "Sahyadri Forgings Unit 4 Industries",
+    "trade_name": "Sahyadri Forgings 4",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411019",
+    "gst_payload": {
+      "gstin": "27AABCP1031F1ZZ",
+      "lgnm": "Sahyadri Forgings Unit 4 Industries",
+      "tradeNam": "Sahyadri Forgings 4",
+      "ctb": "Private Limited Company",
+      "rgdt": "05/08/2013",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 25 Cr. to 100 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411019"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace032",
+          "displayName": {
+            "text": "Sahyadri Forgings 4"
+          },
+          "primaryType": "auto_parts_store",
+          "types": [
+            "automotive",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 41, MIDC Bhosari, Pune, Maharashtra 411019",
+          "rating": 4.3,
+          "userRatingCount": 68,
+          "websiteUri": "https://sahyadriforge.example.in",
+          "nationalPhoneNumber": "020-27121031"
+        }
+      ]
+    }
+  },
+  {
+    "index": 33,
+    "gstin": "27AABCP1032G1ZW",
+    "legal_name": "Deccan Packaging Unit 4 Pvt Ltd",
+    "trade_name": "Deccan Packaging 4",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411020",
+    "gst_payload": {
+      "gstin": "27AABCP1032G1ZW",
+      "lgnm": "Deccan Packaging Unit 4 Pvt Ltd",
+      "tradeNam": "Deccan Packaging 4",
+      "ctb": "Limited Liability Partnership",
+      "rgdt": "19/11/2019",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing",
+        "Wholesale Business"
+      ],
+      "aggreTurnOver": "Slab: Rs. 1.5 Cr. to 5 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411020"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace033",
+          "displayName": {
+            "text": "Deccan Packaging 4"
+          },
+          "primaryType": "packaging_supply_store",
+          "types": [
+            "packaging",
+            "supplier"
+          ],
+          "formattedAddress": "Plot 42, MIDC Bhosari, Pune, Maharashtra 411020",
+          "rating": 4.1,
+          "userRatingCount": 18,
+          "websiteUri": "https://deccanpack.example.in",
+          "nationalPhoneNumber": "020-27121032"
+        }
+      ]
+    }
+  },
+  {
+    "index": 34,
+    "gstin": "27AABCP1033H1ZT",
+    "legal_name": "Western Pharma Unit 4 LLP",
+    "trade_name": "Western Pharma 4",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411021",
+    "gst_payload": {
+      "gstin": "27AABCP1033H1ZT",
+      "lgnm": "Western Pharma Unit 4 LLP",
+      "tradeNam": "Western Pharma 4",
+      "ctb": "Public Limited Company",
+      "rgdt": "22/01/2010",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 100 Cr. to 500 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411021"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace034",
+          "displayName": {
+            "text": "Western Pharma 4"
+          },
+          "primaryType": "pharmaceutical_company",
+          "types": [
+            "health",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 43, MIDC Bhosari, Pune, Maharashtra 411021",
+          "rating": 4.6,
+          "userRatingCount": 95,
+          "websiteUri": "https://westernpharma.example.in",
+          "nationalPhoneNumber": "020-27121033"
+        }
+      ]
+    }
+  },
+  {
+    "index": 35,
+    "gstin": "27AABCP1034I1ZP",
+    "legal_name": "Kaveri Polymers Unit 4 Ltd",
+    "trade_name": "Kaveri Polymers 4",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411022",
+    "gst_payload": {
+      "gstin": "27AABCP1034I1ZP",
+      "lgnm": "Kaveri Polymers Unit 4 Ltd",
+      "tradeNam": "Kaveri Polymers 4",
+      "ctb": "Private Limited Company",
+      "rgdt": "14/06/2018",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 5 Cr. to 25 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411022"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace035",
+          "displayName": {
+            "text": "Kaveri Polymers 4"
+          },
+          "primaryType": "plastics_manufacturer",
+          "types": [
+            "injection_molding",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 44, MIDC Bhosari, Pune, Maharashtra 411022",
+          "rating": 3.9,
+          "userRatingCount": 12,
+          "websiteUri": null,
+          "nationalPhoneNumber": "020-27121034"
+        }
+      ]
+    }
+  },
+  {
+    "index": 36,
+    "gstin": "27AABCP1035J1ZM",
+    "legal_name": "Apex Switchgear Unit 4 Industries",
+    "trade_name": "Apex Switchgear 4",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411023",
+    "gst_payload": {
+      "gstin": "27AABCP1035J1ZM",
+      "lgnm": "Apex Switchgear Unit 4 Industries",
+      "tradeNam": "Apex Switchgear 4",
+      "ctb": "Private Limited Company",
+      "rgdt": "03/03/2015",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 5 Cr. to 25 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411023"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace036",
+          "displayName": {
+            "text": "Apex Switchgear 4"
+          },
+          "primaryType": "electrical_supply_store",
+          "types": [
+            "electrical",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 45, MIDC Bhosari, Pune, Maharashtra 411023",
+          "rating": 4.4,
+          "userRatingCount": 31,
+          "websiteUri": "https://apexswitchgear.example.in",
+          "nationalPhoneNumber": "020-27121035"
+        }
+      ]
+    }
+  },
+  {
+    "index": 37,
+    "gstin": "27AABCP1036K1ZJ",
+    "legal_name": "Indrayani Foods Unit 4 Pvt Ltd",
+    "trade_name": "Indrayani Foods 4",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411024",
+    "gst_payload": {
+      "gstin": "27AABCP1036K1ZJ",
+      "lgnm": "Indrayani Foods Unit 4 Pvt Ltd",
+      "tradeNam": "Indrayani Foods 4",
+      "ctb": "Private Limited Company",
+      "rgdt": "11/09/2014",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 25 Cr. to 100 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411024"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace037",
+          "displayName": {
+            "text": "Indrayani Foods 4"
+          },
+          "primaryType": "food_manufacturer",
+          "types": [
+            "food_processing",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 46, MIDC Bhosari, Pune, Maharashtra 411024",
+          "rating": 4.2,
+          "userRatingCount": 110,
+          "websiteUri": "https://indrayanifoods.example.in",
+          "nationalPhoneNumber": "020-27121036"
+        }
+      ]
+    }
+  },
+  {
+    "index": 38,
+    "gstin": "27AABCP1037L1ZG",
+    "legal_name": "Pavana Steel Unit 4 LLP",
+    "trade_name": "Pavana Steel 4",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411025",
+    "gst_payload": {
+      "gstin": "27AABCP1037L1ZG",
+      "lgnm": "Pavana Steel Unit 4 LLP",
+      "tradeNam": "Pavana Steel 4",
+      "ctb": "Limited Liability Partnership",
+      "rgdt": "27/07/2020",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 1.5 Cr. to 5 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411025"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Not Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace038",
+          "displayName": {
+            "text": "Pavana Steel 4"
+          },
+          "primaryType": "steel_fabricator",
+          "types": [
+            "metal_fabrication",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 47, MIDC Bhosari, Pune, Maharashtra 411025",
+          "rating": 3.7,
+          "userRatingCount": 8,
+          "websiteUri": null,
+          "nationalPhoneNumber": "020-27121037"
+        }
+      ]
+    }
+  },
+  {
+    "index": 39,
+    "gstin": "27AABCP1038M1ZD",
+    "legal_name": "Mula Logistics Unit 4 Ltd",
+    "trade_name": "Mula Logistics 4",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411026",
+    "gst_payload": {
+      "gstin": "27AABCP1038M1ZD",
+      "lgnm": "Mula Logistics Unit 4 Ltd",
+      "tradeNam": "Mula Logistics 4",
+      "ctb": "Private Limited Company",
+      "rgdt": "08/02/2017",
+      "sts": "Active",
+      "nba": [
+        "Supplier of Services"
+      ],
+      "aggreTurnOver": "Slab: Rs. 5 Cr. to 25 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411026"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace039",
+          "displayName": {
+            "text": "Mula Logistics 4"
+          },
+          "primaryType": "logistics_service",
+          "types": [
+            "warehousing",
+            "freight"
+          ],
+          "formattedAddress": "Plot 48, MIDC Bhosari, Pune, Maharashtra 411026",
+          "rating": 4.0,
+          "userRatingCount": 27,
+          "websiteUri": "https://mulalogistics.example.in",
+          "nationalPhoneNumber": "020-27121038"
+        }
+      ]
+    }
+  },
+  {
+    "index": 40,
+    "gstin": "27AABCP1039N1ZA",
+    "legal_name": "Bhosari Pumps Unit 4 Industries",
+    "trade_name": "Bhosari Pumps 4",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411027",
+    "gst_payload": {
+      "gstin": "27AABCP1039N1ZA",
+      "lgnm": "Bhosari Pumps Unit 4 Industries",
+      "tradeNam": "Bhosari Pumps 4",
+      "ctb": "Private Limited Company",
+      "rgdt": "16/05/2012",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 25 Cr. to 100 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411027"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace040",
+          "displayName": {
+            "text": "Bhosari Pumps 4"
+          },
+          "primaryType": "industrial_equipment_supplier",
+          "types": [
+            "machinery",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 49, MIDC Bhosari, Pune, Maharashtra 411027",
+          "rating": 4.7,
+          "userRatingCount": 54,
+          "websiteUri": "https://bhosaripumps.example.in",
+          "nationalPhoneNumber": "020-27121039"
+        }
+      ]
+    }
+  },
+  {
+    "index": 41,
+    "gstin": "27AABCP1040O1ZF",
+    "legal_name": "Precision CNC Unit 5 Pvt Ltd",
+    "trade_name": "Precision CNC 5",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411028",
+    "gst_payload": {
+      "gstin": "27AABCP1040O1ZF",
+      "lgnm": "Precision CNC Unit 5 Pvt Ltd",
+      "tradeNam": "Precision CNC 5",
+      "ctb": "Private Limited Company",
+      "rgdt": "12/04/2016",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 5 Cr. to 25 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411028"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace041",
+          "displayName": {
+            "text": "Precision CNC 5"
+          },
+          "primaryType": "machine_shop",
+          "types": [
+            "cnc_machining",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 50, MIDC Bhosari, Pune, Maharashtra 411028",
+          "rating": 4.5,
+          "userRatingCount": 42,
+          "websiteUri": "https://precisioncnc.example.in",
+          "nationalPhoneNumber": "020-27121040"
+        }
+      ]
+    }
+  },
+  {
+    "index": 42,
+    "gstin": "27AABCP1041P1ZC",
+    "legal_name": "Sahyadri Forgings Unit 5 LLP",
+    "trade_name": "Sahyadri Forgings 5",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411029",
+    "gst_payload": {
+      "gstin": "27AABCP1041P1ZC",
+      "lgnm": "Sahyadri Forgings Unit 5 LLP",
+      "tradeNam": "Sahyadri Forgings 5",
+      "ctb": "Private Limited Company",
+      "rgdt": "05/08/2013",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 25 Cr. to 100 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411029"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace042",
+          "displayName": {
+            "text": "Sahyadri Forgings 5"
+          },
+          "primaryType": "auto_parts_store",
+          "types": [
+            "automotive",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 51, MIDC Bhosari, Pune, Maharashtra 411029",
+          "rating": 4.3,
+          "userRatingCount": 68,
+          "websiteUri": "https://sahyadriforge.example.in",
+          "nationalPhoneNumber": "020-27121041"
+        }
+      ]
+    }
+  },
+  {
+    "index": 43,
+    "gstin": "27AABCP1042Q1Z9",
+    "legal_name": "Deccan Packaging Unit 5 Ltd",
+    "trade_name": "Deccan Packaging 5",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411030",
+    "gst_payload": {
+      "gstin": "27AABCP1042Q1Z9",
+      "lgnm": "Deccan Packaging Unit 5 Ltd",
+      "tradeNam": "Deccan Packaging 5",
+      "ctb": "Limited Liability Partnership",
+      "rgdt": "19/11/2019",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing",
+        "Wholesale Business"
+      ],
+      "aggreTurnOver": "Slab: Rs. 1.5 Cr. to 5 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411030"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace043",
+          "displayName": {
+            "text": "Deccan Packaging 5"
+          },
+          "primaryType": "packaging_supply_store",
+          "types": [
+            "packaging",
+            "supplier"
+          ],
+          "formattedAddress": "Plot 52, MIDC Bhosari, Pune, Maharashtra 411030",
+          "rating": 4.1,
+          "userRatingCount": 18,
+          "websiteUri": "https://deccanpack.example.in",
+          "nationalPhoneNumber": "020-27121042"
+        }
+      ]
+    }
+  },
+  {
+    "index": 44,
+    "gstin": "27AABCP1043R1Z6",
+    "legal_name": "Western Pharma Unit 5 Industries",
+    "trade_name": "Western Pharma 5",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411031",
+    "gst_payload": {
+      "gstin": "27AABCP1043R1Z6",
+      "lgnm": "Western Pharma Unit 5 Industries",
+      "tradeNam": "Western Pharma 5",
+      "ctb": "Public Limited Company",
+      "rgdt": "22/01/2010",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 100 Cr. to 500 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411031"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace044",
+          "displayName": {
+            "text": "Western Pharma 5"
+          },
+          "primaryType": "pharmaceutical_company",
+          "types": [
+            "health",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 53, MIDC Bhosari, Pune, Maharashtra 411031",
+          "rating": 4.6,
+          "userRatingCount": 95,
+          "websiteUri": "https://westernpharma.example.in",
+          "nationalPhoneNumber": "020-27121043"
+        }
+      ]
+    }
+  },
+  {
+    "index": 45,
+    "gstin": "27AABCP1044S1Z3",
+    "legal_name": "Kaveri Polymers Unit 5 Pvt Ltd",
+    "trade_name": "Kaveri Polymers 5",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411032",
+    "gst_payload": {
+      "gstin": "27AABCP1044S1Z3",
+      "lgnm": "Kaveri Polymers Unit 5 Pvt Ltd",
+      "tradeNam": "Kaveri Polymers 5",
+      "ctb": "Private Limited Company",
+      "rgdt": "14/06/2018",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 5 Cr. to 25 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411032"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace045",
+          "displayName": {
+            "text": "Kaveri Polymers 5"
+          },
+          "primaryType": "plastics_manufacturer",
+          "types": [
+            "injection_molding",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 54, MIDC Bhosari, Pune, Maharashtra 411032",
+          "rating": 3.9,
+          "userRatingCount": 12,
+          "websiteUri": null,
+          "nationalPhoneNumber": "020-27121044"
+        }
+      ]
+    }
+  },
+  {
+    "index": 46,
+    "gstin": "27AABCP1045T1Z0",
+    "legal_name": "Apex Switchgear Unit 5 LLP",
+    "trade_name": "Apex Switchgear 5",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411018",
+    "gst_payload": {
+      "gstin": "27AABCP1045T1Z0",
+      "lgnm": "Apex Switchgear Unit 5 LLP",
+      "tradeNam": "Apex Switchgear 5",
+      "ctb": "Private Limited Company",
+      "rgdt": "03/03/2015",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 5 Cr. to 25 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411018"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace046",
+          "displayName": {
+            "text": "Apex Switchgear 5"
+          },
+          "primaryType": "electrical_supply_store",
+          "types": [
+            "electrical",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 55, MIDC Bhosari, Pune, Maharashtra 411018",
+          "rating": 4.4,
+          "userRatingCount": 31,
+          "websiteUri": "https://apexswitchgear.example.in",
+          "nationalPhoneNumber": "020-27121045"
+        }
+      ]
+    }
+  },
+  {
+    "index": 47,
+    "gstin": "27AABCP1046U1ZX",
+    "legal_name": "Indrayani Foods Unit 5 Ltd",
+    "trade_name": "Indrayani Foods 5",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411019",
+    "gst_payload": {
+      "gstin": "27AABCP1046U1ZX",
+      "lgnm": "Indrayani Foods Unit 5 Ltd",
+      "tradeNam": "Indrayani Foods 5",
+      "ctb": "Private Limited Company",
+      "rgdt": "11/09/2014",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 25 Cr. to 100 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411019"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace047",
+          "displayName": {
+            "text": "Indrayani Foods 5"
+          },
+          "primaryType": "food_manufacturer",
+          "types": [
+            "food_processing",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 56, MIDC Bhosari, Pune, Maharashtra 411019",
+          "rating": 4.2,
+          "userRatingCount": 110,
+          "websiteUri": "https://indrayanifoods.example.in",
+          "nationalPhoneNumber": "020-27121046"
+        }
+      ]
+    }
+  },
+  {
+    "index": 48,
+    "gstin": "27AABCP1047V1ZU",
+    "legal_name": "Pavana Steel Unit 5 Industries",
+    "trade_name": "Pavana Steel 5",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411020",
+    "gst_payload": {
+      "gstin": "27AABCP1047V1ZU",
+      "lgnm": "Pavana Steel Unit 5 Industries",
+      "tradeNam": "Pavana Steel 5",
+      "ctb": "Limited Liability Partnership",
+      "rgdt": "27/07/2020",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 1.5 Cr. to 5 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411020"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Not Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace048",
+          "displayName": {
+            "text": "Pavana Steel 5"
+          },
+          "primaryType": "steel_fabricator",
+          "types": [
+            "metal_fabrication",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 57, MIDC Bhosari, Pune, Maharashtra 411020",
+          "rating": 3.7,
+          "userRatingCount": 8,
+          "websiteUri": null,
+          "nationalPhoneNumber": "020-27121047"
+        }
+      ]
+    }
+  },
+  {
+    "index": 49,
+    "gstin": "27AABCP1048W1ZR",
+    "legal_name": "Mula Logistics Unit 5 Pvt Ltd",
+    "trade_name": "Mula Logistics 5",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411021",
+    "gst_payload": {
+      "gstin": "27AABCP1048W1ZR",
+      "lgnm": "Mula Logistics Unit 5 Pvt Ltd",
+      "tradeNam": "Mula Logistics 5",
+      "ctb": "Private Limited Company",
+      "rgdt": "08/02/2017",
+      "sts": "Active",
+      "nba": [
+        "Supplier of Services"
+      ],
+      "aggreTurnOver": "Slab: Rs. 5 Cr. to 25 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411021"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace049",
+          "displayName": {
+            "text": "Mula Logistics 5"
+          },
+          "primaryType": "logistics_service",
+          "types": [
+            "warehousing",
+            "freight"
+          ],
+          "formattedAddress": "Plot 58, MIDC Bhosari, Pune, Maharashtra 411021",
+          "rating": 4.0,
+          "userRatingCount": 27,
+          "websiteUri": "https://mulalogistics.example.in",
+          "nationalPhoneNumber": "020-27121048"
+        }
+      ]
+    }
+  },
+  {
+    "index": 50,
+    "gstin": "27AABCP1049X1ZO",
+    "legal_name": "Bhosari Pumps Unit 5 LLP",
+    "trade_name": "Bhosari Pumps 5",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411022",
+    "gst_payload": {
+      "gstin": "27AABCP1049X1ZO",
+      "lgnm": "Bhosari Pumps Unit 5 LLP",
+      "tradeNam": "Bhosari Pumps 5",
+      "ctb": "Private Limited Company",
+      "rgdt": "16/05/2012",
+      "sts": "Active",
+      "nba": [
+        "Factory / Manufacturing"
+      ],
+      "aggreTurnOver": "Slab: Rs. 25 Cr. to 100 Cr.",
+      "pradr": {
+        "addr": {
+          "loc": "Bhosari MIDC",
+          "dst": "Pune",
+          "stcd": "Maharashtra",
+          "pncd": "411022"
+        }
+      },
+      "filingStatus": [
+        {
+          "retType": "GSTR3B",
+          "status": "Filed"
+        },
+        {
+          "retType": "GSTR1",
+          "status": "Filed"
+        }
+      ]
+    },
+    "places_payload": {
+      "places": [
+        {
+          "id": "ChIJMockPlace050",
+          "displayName": {
+            "text": "Bhosari Pumps 5"
+          },
+          "primaryType": "industrial_equipment_supplier",
+          "types": [
+            "machinery",
+            "manufacturer"
+          ],
+          "formattedAddress": "Plot 59, MIDC Bhosari, Pune, Maharashtra 411022",
+          "rating": 4.7,
+          "userRatingCount": 54,
+          "websiteUri": "https://bhosaripumps.example.in",
+          "nationalPhoneNumber": "020-27121049"
+        }
+      ]
+    }
+  }
+]
